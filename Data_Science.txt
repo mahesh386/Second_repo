@@ -11,5 +11,12 @@ Probability
 Algorithms
 
 
+Data Gathering
+Data Cleaning
+Data Processing
+Data Analysis
+Data visualisation 
+Data Presentation
+
 
 Thank you :)
