@@ -1,10 +1,14 @@
-
-
 Welcome to Data science world
 
 
+Python
 
-Python 
+
+Statistics
+Mathematics
+
+Probability
+Algorithms
 
 
 
